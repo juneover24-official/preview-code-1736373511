@@ -1,7 +1,7 @@
 {
   "qq_number": "1736373511",
   "group_number": "1135159740",
-  "updated_at": "2026-11-25T04:30:04+00:00",
+  "updated_at": "2026-11-25T04:52:08+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -9,6 +9,13 @@
       "thumb": "甜心小鼻嘎-紫色圈圈底脆脆音ios27.bdi_py_26_light_thumb.png",
       "full": "甜心小鼻嘎-紫色圈圈底脆脆音ios27.bdi_py_26_light_thumb.png",
       "file_id": "4b58eb2d08b877f3151f8e80dfd27193"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "甜心小鼻嘎-白底闷闷音.bdi",
+      "thumb": "甜心小鼻嘎-白底闷闷音.bdi_py_26_light_thumb.png",
+      "full": "甜心小鼻嘎-白底闷闷音.bdi_py_26_light_thumb.png",
+      "file_id": "2e7a2b958f7e3f91bc729f3509c4ade3"
     }
   ]
 }

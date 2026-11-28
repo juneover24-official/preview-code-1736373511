@@ -1,7 +1,7 @@
 {
   "qq_number": "1736373511",
   "group_number": "1135159740",
-  "updated_at": "2026-11-28T08:51:06+00:00",
+  "updated_at": "2026-11-28T08:51:52+00:00",
   "skins": [
     {
       "name": "乐妍底包",
@@ -58,6 +58,13 @@
       "thumb": "豹豹度假村-蓝底脆脆音ios27.bdi_py_26_light_thumb.png",
       "full": "豹豹度假村-蓝底脆脆音ios27.bdi_py_26_light_thumb.png",
       "file_id": "8fcd4ca91bae0ea930ab1660fd4523b4"
+    },
+    {
+      "name": "乐妍底包",
+      "file": "豹豹度假村-粉色底闷闷音.bdi",
+      "thumb": "豹豹度假村-粉色底闷闷音.bdi_py_26_light_thumb.png",
+      "full": "豹豹度假村-粉色底闷闷音.bdi_py_26_light_thumb.png",
+      "file_id": "77f17445faade3020f4605d26e053ec6"
     }
   ]
 }
